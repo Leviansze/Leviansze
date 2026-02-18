@@ -1,12 +1,23 @@
-Hello, my name is Rashmi Jadhav and I am a master's student at [Oregon State University](https://eecs.oregonstate.edu/) majoring in Computer Science. I am a full-stack software developer with three years of experience working as a Software Engineer at [eQ Technologic India Pvt. Ltd.](https://www.1eq.com/) My technology stack involves Java/J2EE, Spring, Maven, Hibernate, MySQL, javascript, Backbone.js, and, HTML/CSS/Bootstrap. Besides programming, I have an immense interest in music.
+<h1 align="center">Hi, I'm Levian 👋</h1>
+<p align="center">
+  Fullstack Developer • Movie Streaming Builder • SA-MP Enthusiast
+</p>
 
-- 🔭 I’m currently researching at the intersection of machine learning and databases with the [IDEA Lab](http://web.engr.oregonstate.edu/~termehca/)
-- 💬 Brainstorm with me over tech, algorithms, career, and music 
-- 📫 How to reach me: rsjcoepit@gmail.com
-- 😄 Pronouns: Programmer/She/Her/Hers
-- ⚡ Fun fact: Checkout my [Lean2Lead Pune](https://www.linkedin.com/in/lean2lead-pune-bbb92a169) Community if you are ambitious!
-- 📝 [Resume](https://rusty-sj.github.io/media/Rashmi_Jadhav.pdf)
+<p align="center">
+  🌐 https://leviann.my.id
+</p>
 
+---
+
+## 🚀 About Me
+- 💻 Building movie streaming & portfolio websites
+- ⚡ Focus on TypeScript, JavaScript, UI Design
+- 🎮 SA-MP server scripting & automation
+- 🎵 Sometimes coding while listening to music
+
+---
+
+## 🧰 Tech Stack
 **Languages and Tools:** 
 
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
@@ -21,7 +32,23 @@ Hello, my name is Rashmi Jadhav and I am a master's student at [Oregon State Uni
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
-![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=Leviansze&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rusty-sj&hide=TeX&layout=compact)
+---
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rusty-sj.rusty-sj)
+## 📌 Projects
+- 🎬 **movie-net** → streaming movie website  
+- 💳 **web-topup** → game topup website  
+- 🎥 **movie-v2** → upgraded streaming site  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Leviansze&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leviansze&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📫 Contact
+- Discord : levian#0001
+- Website : https://leviann.my.id
