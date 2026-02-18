@@ -41,7 +41,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Leviansze&theme=tokyonight&no-frame=true&margin-w=10" />
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=leviansze&theme=dark" />
 </p>
 
 ---
