@@ -1,34 +1,44 @@
-<h1 align="center">👋 Hi, I'm Levian</h1>
+<h1 align="center">Hi, I'm Levian 👋</h1>
+
 <p align="center">
-  Fullstack Developer • Movie/Streaming Web Builder • SA-MP Enthusiast
+  💻 Fullstack Developer • 🎬 Movie Streaming Builder • 🎮 SA-MP Enthusiast
+</p>
+
+<p align="center">
+  <a href="https://leviann.my.id">🌐 Website</a> • 
+  <a href="https://github.com/leviansze">🐙 GitHub</a>
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🔭 Lagi ngerjain project **movie streaming web & portfolio**
-- 💻 Fokus di **TypeScript, JavaScript, Web UI**
-- 🎮 Kadang ngoprek **SA-MP server**
-- 🌐 Website: https://leviann.my.id
+- Lagi bikin **Movie Streaming Website & Portfolio**
+- Fokus di **TypeScript, JavaScript, UI Design**
+- Ngoprek **SA-MP Server & Automation**
+- Suka bikin UI dark mode clean
 
 ---
 
 ## 🧰 Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,nodejs,react,git,github,vscode" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,nodejs,react,git,github,vscode" />
 </p>
 
 ---
 
-## 📌 Popular Projects
+## 📌 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **movie-net** | Website streaming movie modern UI | TypeScript |
-| **web-topup** | Website topup game/payment | TypeScript |
-| **MOVIE-V2** | Upgrade movie web dengan fitur baru | JavaScript |
-| **dracin** | Project eksperimen web | TypeScript |
-| **quranesia** | Website Quran UI | JavaScript |
+### 🎬 Movie-Net
+Website streaming movie modern UI  
+**Tech:** TypeScript
+
+### 💳 Web-Topup
+Website topup game/payment  
+**Tech:** TypeScript
+
+### 🎥 MOVIE-V2
+Upgrade streaming web  
+**Tech:** JavaScript
 
 ---
 
@@ -41,11 +51,11 @@
 ---
 
 ## 📫 Contact
-- Discord : levian#0001
-- Website : https://leviann.my.id
+- Discord: **levian#0001**
+- Website: https://leviann.my.id
 
 ---
 
 <p align="center">
-🔥 "Code sedikit tapi konsisten lebih bagus daripada repo banyak tapi kosong."
+⭐ "Consistent coding beats empty repositories."
 </p>
