@@ -18,7 +18,7 @@
 
 ## 🧰 Tech
 <p align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,html,css,nodejs,react,git,github,vscode&perline=5" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,nodejs,react,git,github,vscode&theme=dark" />
 </p>
 
 ---
