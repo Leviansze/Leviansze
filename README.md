@@ -13,13 +13,11 @@
 - 💻 Building movie streaming & portfolio websites
 - ⚡ Focus on TypeScript, JavaScript, UI Design
 - 🎮 SA-MP server scripting & automation
-- 🎵 Sometimes coding while listening to music
+- 🎵 Coding sambil denger musik
 
 ---
 
 ## 🧰 Tech Stack
-**Languages and Tools:** 
-
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
@@ -43,8 +41,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=leviansze&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leviansze&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=leviansze&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 ---
